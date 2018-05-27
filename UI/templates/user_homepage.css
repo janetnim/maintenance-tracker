@@ -19,8 +19,11 @@ body{
 	display: -webkit-box;
 	-webkit-box-pack: left;
 }
-#bg_col{
-	background: linear-gradient(to bottom, #003300 0%, #66ff33 100%);
+#abt_btn{
+	float: right;
+}
+#text{
+	float: right;
 }
 #big_wrapper{
 	max-width: 100%;
@@ -67,6 +70,11 @@ li a:hover{
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
 	background-color: #d3d3d3;
+}
+#new_div2{
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	background: url(blue_background.jpg);
 }
 #left_side{
 	border: 1px solid #66CCCC;
