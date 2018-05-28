@@ -74,7 +74,9 @@ li a:hover{
 #new_div2{
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
-	background: url(blue_background.jpg);
+	background: url(blue_background.jpg) center center;
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 #left_side{
 	border: 1px solid #66CCCC;
