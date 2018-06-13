@@ -22,6 +22,9 @@ body{
 #abt_btn{
 	float: right;
 }
+abt_btn.h2{
+	padding: 5px;
+}
 #text{
 	float: right;
 }
